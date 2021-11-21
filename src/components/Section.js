@@ -12,18 +12,18 @@ function Section({
 }) {
   return (
     <Wrap bgImage={backgroundImage}>
-      <Fade direction='up'>
+      <Fade direction="up">
         <ItemText>
           <h1>{title}</h1>
           <p>{description}</p>
         </ItemText>
       </Fade>
       <Buttons>
-        <Fade direction = 'up'>
+        <Fade direction="up">
           <ButtonGroup>
             <LeftButton>{leftBtnText}</LeftButton>
             {rightBtnText && <RightButton>{rightBtnText}</RightButton>}
-          </ButtonGroup>  
+          </ButtonGroup>
         </Fade>
         {lastCol !== "True" && <DownArrow src="/images/down-arrow.svg" />}
       </Buttons>
