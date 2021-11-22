@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Tesla-Clone/static/css/main.05618420.chunk.css",
-    "main.js": "/Tesla-Clone/static/js/main.8490238b.chunk.js",
-    "main.js.map": "/Tesla-Clone/static/js/main.8490238b.chunk.js.map",
-    "runtime-main.js": "/Tesla-Clone/static/js/runtime-main.39c8b4a4.js",
-    "runtime-main.js.map": "/Tesla-Clone/static/js/runtime-main.39c8b4a4.js.map",
-    "static/js/2.8863c379.chunk.js": "/Tesla-Clone/static/js/2.8863c379.chunk.js",
-    "static/js/2.8863c379.chunk.js.map": "/Tesla-Clone/static/js/2.8863c379.chunk.js.map",
-    "index.html": "/Tesla-Clone/index.html",
-    "static/css/main.05618420.chunk.css.map": "/Tesla-Clone/static/css/main.05618420.chunk.css.map",
-    "static/js/2.8863c379.chunk.js.LICENSE.txt": "/Tesla-Clone/static/js/2.8863c379.chunk.js.LICENSE.txt"
+    "main.css": "/brianmat99.github.io/Tesla-Clone/static/css/main.05618420.chunk.css",
+    "main.js": "/brianmat99.github.io/Tesla-Clone/static/js/main.345cce5c.chunk.js",
+    "main.js.map": "/brianmat99.github.io/Tesla-Clone/static/js/main.345cce5c.chunk.js.map",
+    "runtime-main.js": "/brianmat99.github.io/Tesla-Clone/static/js/runtime-main.4f764563.js",
+    "runtime-main.js.map": "/brianmat99.github.io/Tesla-Clone/static/js/runtime-main.4f764563.js.map",
+    "static/js/2.63b17fb9.chunk.js": "/brianmat99.github.io/Tesla-Clone/static/js/2.63b17fb9.chunk.js",
+    "static/js/2.63b17fb9.chunk.js.map": "/brianmat99.github.io/Tesla-Clone/static/js/2.63b17fb9.chunk.js.map",
+    "index.html": "/brianmat99.github.io/Tesla-Clone/index.html",
+    "static/css/main.05618420.chunk.css.map": "/brianmat99.github.io/Tesla-Clone/static/css/main.05618420.chunk.css.map",
+    "static/js/2.63b17fb9.chunk.js.LICENSE.txt": "/brianmat99.github.io/Tesla-Clone/static/js/2.63b17fb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.39c8b4a4.js",
-    "static/js/2.8863c379.chunk.js",
+    "static/js/runtime-main.4f764563.js",
+    "static/js/2.63b17fb9.chunk.js",
     "static/css/main.05618420.chunk.css",
-    "static/js/main.8490238b.chunk.js"
+    "static/js/main.345cce5c.chunk.js"
   ]
 }
