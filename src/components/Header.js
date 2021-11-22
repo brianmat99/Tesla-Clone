@@ -15,7 +15,7 @@ function Header() {
   return (
     <HeaderContainer>
       <a>
-        <img src="/images/logo.svg" alt="" />
+        <img src="Tesla-Clone/images/logo.svg" alt="" />
       </a>
       <Menu>
         {cars &&
