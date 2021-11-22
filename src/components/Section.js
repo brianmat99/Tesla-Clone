@@ -25,7 +25,7 @@ function Section({
             {rightBtnText && <RightButton>{rightBtnText}</RightButton>}
           </ButtonGroup>
         </Fade>
-        {lastCol !== "True" && <DownArrow src="Tesla-Clone/images/down-arrow.svg" />}
+        {lastCol !== "True" && <DownArrow src="images/down-arrow.svg" />}
       </Buttons>
     </Wrap>
   );
@@ -45,7 +45,7 @@ const Wrap = styled.div`
   overflow-y: hidden;
   align-items: center; // horizontal alignment
   background-image: ${(props) =>
-    `url("Tesla-Clone/images/${props.bgImage}")`}; // fetch image in images/ folder
+    `url("images/${props.bgImage}")`}; // fetch image in images/ folder
 `;
 
 const ItemText = styled.div`
